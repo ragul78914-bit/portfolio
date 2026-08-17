@@ -45,7 +45,7 @@ export default function Hero() {
               <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-              href="/resume.pdf.pdf"
+              href="/resume.pdf"
               target="_blank"
               className="px-6 py-3 rounded-full glass font-semibold hover:bg-white/10 transition-colors flex items-center gap-2 text-white"
             >
