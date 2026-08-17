@@ -13,7 +13,7 @@ const projects = [
       "Designed a responsive dashboard with an intuitive user interface for efficient project monitoring.",
       "Deployed the application on Vercel for online accessibility."
     ],
-    link: "https://construction-management7.vercel.app/admin",
+    link: "https://newconstruction-umber.vercel.app/admin",
   },
   {
     title: "Tuition ERP System",
